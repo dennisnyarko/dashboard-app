@@ -664,7 +664,7 @@ main .recent-orders a {
         display: inline-block;
         background: transparent;
         cursor: pointer;
-        color: var(--color-danger);
+        color: var(--color-dark);
         position: absolute;
         left: 1rem;
     }
